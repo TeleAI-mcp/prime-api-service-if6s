@@ -1,1 +1,3 @@
-# prime-api-service-if6s
+# Prime Api Service If6S
+
+A REST API service for modern development workflows.
